@@ -712,7 +712,7 @@ h6, .u-text-size-h6 {
       width: 66% !important;
       -webkit-box-ordinal-group: 0;
           -ms-flex-order: -1;
-              order: -1; 
+              order: 3; 
     }
     .parent-wrapper .parent > div:first-child:nth-last-child(4) {
       margin-left: -33%; 

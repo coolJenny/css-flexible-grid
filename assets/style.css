@@ -734,7 +734,7 @@ h6, .u-text-size-h6 {
   /* remove scrollbar space */
   background: transparent;
   /* optional: just make scrollbar invisible */
-  height: 4px; 
+  height: 2px; 
 }
 .container ::-webkit-scrollbar-thumb {
   background: rgba(0, 0, 0, 0.2); 

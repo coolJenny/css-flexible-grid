@@ -727,7 +727,8 @@ h6, .u-text-size-h6 {
   height: 100%;
   max-width: 500px;
   margin: auto;
-  /* optional: show position indicator in red */ 
+  /* optional: show position indicator in red */
+  
 }
 .container ::-webkit-scrollbar {
   width: 0px;

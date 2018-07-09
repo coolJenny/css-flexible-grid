@@ -500,10 +500,10 @@ h6, .u-text-size-h6 {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   float: left;
-  width: 3rem;
-  height: 2.4375rem;
+  width: 42px;
+  height: 39px;
   font-family: inherit;
-  font-size: 1rem;
+  font-size: 14px;
   font-weight: normal;
   line-height: 1;
   text-align: center;

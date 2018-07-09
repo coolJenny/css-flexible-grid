@@ -634,7 +634,8 @@ h6, .u-text-size-h6 {
 
 .js-numstepper {
   margin-top: 20px;
-  margin-left: 20px; 
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 .parent-wrapper {

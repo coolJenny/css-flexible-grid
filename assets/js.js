@@ -473,7 +473,7 @@ $( '#container' ).on( 'change.numstep', '.js-numstepper', function( event, mode,
 	if(mode === 'inc'){
 		if(counterParent == 5){
 			counterParent = 1;
-			console.log('ADD NEW PARENT');
+			// console.log('ADD NEW PARENT');
 			$( "#parent-wrappper" ).append( '<div class="parent"></div>' );
 		
 		}
@@ -483,7 +483,7 @@ $( '#container' ).on( 'change.numstep', '.js-numstepper', function( event, mode,
 	if(mode === 'dec'){
 		if (counterParent == 0){
 			counterParent = 4;
-			console.log('REMOVE PARENT');
+			// console.log('REMOVE PARENT');
 			$( "#parent-wrappper .parent:last-child" ).remove();
 	
 		}else{
@@ -499,7 +499,7 @@ $( '#container' ).on( 'change.numstep', '.js-numstepper', function( event, mode,
 	
 	//console.log("totleItems    : ",totleItems);
 	//console.log("totleItems / 4: ",totleItems / 4);
-	console.log("counterParent : ", counterParent);
+	// console.log("counterParent : ", counterParent);
 
 	 // console.log("totleSections",totleSections);
     
